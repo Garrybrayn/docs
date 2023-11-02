@@ -63,6 +63,6 @@
     "remoteUser": "node",
 
     "hostRequirements": {
-        "memory": "8gb"
+        "memory": "16gb"
     }
 }
