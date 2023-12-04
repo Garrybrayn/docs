@@ -1,5 +1,5 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.178.0/containers/javascript-node
 // -
 {
     "name": "docs.github.com",
@@ -63,6 +63,6 @@
     "remoteUser": "node",
 
     "hostRequirements": {
-        "memory": "8gb"
+        "memory": "64gb"
     }
 }
